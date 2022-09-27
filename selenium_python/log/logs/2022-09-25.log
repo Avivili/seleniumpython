@@ -1,0 +1,9 @@
+
+2022-09-25 09:16:17,506 first_case.py setUp--> 20: INFO this is setup log
+2022-09-25 09:16:28,187 first_case.py setUp--> 20: INFO this is setup log
+2022-09-25 09:16:39,165 first_case.py setUp--> 20: INFO this is setup log
+2022-09-25 09:16:48,639 first_case.py setUp--> 20: INFO this is setup log
+2022-09-25 09:17:03,662 first_case.py setUp--> 20: INFO this is setup log
+2022-09-25 11:53:37,813 first_case.py setUp--> 20: INFO this is setup log
+2022-09-25 12:28:10,136 first_case.py setUp--> 20: INFO this is setup log
+2022-09-25 12:31:53,037 first_case.py setUp--> 20: INFO this is setup log
